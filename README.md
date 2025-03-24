@@ -128,5 +128,5 @@ app.mainloop()
 Inicia o loop principal da interface gráfica, permitindo a interação do usuário.
 
 ## Conclusão
-Este sistema permite gerenciar um pequeno estoque de livros de forma simples e eficiente, fornecendo uma interface gráfica interativa e controles para adição, remoção e monitoramento do estoque de livros.
+Este sistema permite gerenciar um pequeno estoque de livros de forma simples e eficiente, fornecendo uma interface gráfica interativa e controles para adição, remoção e monitoramento do estoque de livros, dessa forma atuando como um CRUD.
 
